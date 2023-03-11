@@ -11,7 +11,4 @@ public class Timer {
         return nanoTime;
     }
 
-//    public Timer getTimer() {
-//        return new Timer();
-//    }
 }
